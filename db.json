@@ -1,0 +1,343 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "email": "pratap123@gmail.com",
+      "password": "pratap",
+      "id": 2
+    },
+    {
+      "email": "pratap19089@gmail.com",
+      "password": "pratap",
+      "id": 3
+    },
+    {
+      "email": "pratap890@gmail.com",
+      "password": "pratap",
+      "id": 4
+    },
+    {
+      "email": "pratyus673@gmail.com",
+      "password": "prata[",
+      "id": 5
+    },
+    {
+      "email": "pratap9090@gmail.com",
+      "password": "pratap",
+      "id": 6
+    },
+    {
+      "email": "pratap908@gmail.com",
+      "password": "pratap",
+      "id": 7
+    },
+    {
+      "email": "prataos342@gmail.com",
+      "password": "pratap",
+      "id": 8
+    },
+    {
+      "email": "pratap8888@gmail.com",
+      "password": "pratap",
+      "id": 9
+    },
+    {
+      "email": "pratap9090@gmail.com",
+      "password": "pratap",
+      "id": 10
+    },
+    {
+      "email": "pratap890@gmail.com",
+      "password": "pratap",
+      "id": 11
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "pratap",
+      "id": 12
+    },
+    {
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "ptyyy",
+      "id": 13
+    },
+    {
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "pratap",
+      "id": 14
+    },
+    {
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "pratap",
+      "id": 15
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "pratap",
+      "id": 16
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "pratap",
+      "id": 17
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 18
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "pratap",
+      "id": 19
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 20
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "hshjs",
+      "id": 21
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 22
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "ssdcdsc",
+      "id": 23
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 24
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "jygsx",
+      "id": 25
+    },
+    {
+      "email": "pratap.s+678@pacewisdom.com",
+      "id": 26
+    },
+    {
+      "email": "pratap.s+678@pacewisdom.com",
+      "password": "shhxksx",
+      "id": 27
+    },
+    {
+      "email": "pratapsinghthakur888@gmail.com",
+      "id": 28
+    },
+    {
+      "email": "pratapsinghthakur888@gmail.com",
+      "password": "jwhghwdjw",
+      "id": 29
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 30
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "kssksks",
+      "id": 31
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 32
+    },
+    {
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "jbhjjjh",
+      "id": 33
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "id": 34
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "hsgsh",
+      "id": 35
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "id": 36
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "bsnns",
+      "id": 37
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "id": 38
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "hhjshjx",
+      "id": 39
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 40
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "jsjk",
+      "id": 41
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 42
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 43
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "bjbbjhj",
+      "id": 44
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 45
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "hjbdbjchd",
+      "id": 46
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 47
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "shgvcedcvgd",
+      "id": 48
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "id": 49
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "hjxsxvs",
+      "id": 50
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 51
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "ghcgcjdc",
+      "id": 52
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "jdgcjdjc",
+      "id": 53
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "dhjsbjchd",
+      "id": 54
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "hjsxjhs",
+      "id": 55
+    },
+    {
+      "action": "signup",
+      "email": "pratapsinghthakur888@gmail.com",
+      "password": "hjjwchj",
+      "id": 56
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 57
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": " bjhhjd",
+      "id": 58
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 59
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "gvgg",
+      "id": 60
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "id": 61
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+fgt@pacewisdom.com",
+      "password": "ugguhjh",
+      "id": 62
+    },
+    {
+      "action": "checkEmail",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "id": 63
+    },
+    {
+      "action": "signup",
+      "email": "pratap.s+customer321@pacewisdom.com",
+      "password": "ghgythb",
+      "id": 64
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
